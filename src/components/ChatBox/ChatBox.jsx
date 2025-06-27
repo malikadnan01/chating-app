@@ -9,7 +9,7 @@ const ChatBox = () => {
     userData : {
       id: 1,
       avatar: assets.avatar_icon,
-      name: "Adnan",
+      name: "Rehan",
       lastSeen: 60000
     }
   });
